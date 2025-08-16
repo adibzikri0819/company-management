@@ -31,9 +31,7 @@
                     <button type="submit" class="btn btn-primary">Login</button>
                 </form>
                 
-                <div class="mt-3 text-muted">
-                    <small>Default login: admin@admin.com / password</small>
-                </div>
+                
             </div>
         </div>
     </div>
